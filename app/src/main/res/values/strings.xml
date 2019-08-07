@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SmilesCare</string>
+    <string name="forgot_pwd"><u>Forgot Password?</u></string>
+    <string name="facebook_app_id">998819103645701</string>
+    <string name="facebook_login_protocol_name">fb998819103645701</string>
+    <string name="account_kit_client_token">009e8135abafedf5190a7452fb503efe</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="choiceList">
+        <item>How can we use your donation?</item>
+        <item>General or All purpose use</item>
+        <item>Shoes and Clothes for the needy</item>
+        <item>Education and Stationary</item>
+        <item>Purchase of land</item>
+        <item>Microfinancing</item>
+        <item>Health Check Ups and Medicines</item>
+        <item>Skill Development and Trainings</item>
+        <item>Events and Birthday Celebrations</item>
+        <item>Food donations</item>
+    </string-array>
+</resources>

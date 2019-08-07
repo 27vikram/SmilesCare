@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "832899470",
+    "firebase_url": "https://smilescare-32f1f.firebaseio.com",
+    "project_id": "smilescare-32f1f",
+    "storage_bucket": "smilescare-32f1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832899470:android:cd7be27b29dcc62f",
+        "android_client_info": {
+          "package_name": "com.example.smilescare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832899470-85alsgrvtjfunjg3jmarb3qokcodu204.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smilescare",
+            "certificate_hash": "6af680e7414ff300836985858cae32f148db3ddc"
+          }
+        },
+        {
+          "client_id": "832899470-ge5r3ddavgnv04aeudg1hdvvvnk38q7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOiGLzwn5ZwwYGuF5djH8H929ljmsl4gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832899470-ge5r3ddavgnv04aeudg1hdvvvnk38q7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
